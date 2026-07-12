@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salut, moi c'est [Ton Prénom / Pseudo] !
 
-<!--
-**LSKFAMA93/LSKFAMA93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un passionné de développement et de design d'application. J'aime concevoir des interfaces modernes et créer des expériences numériques marquantes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mes Compétences & Outils
+
+### 🎨 Design & UI
+*   Conception de logos 3D de luxe & Identité visuelle
+*   Maquettage d'interfaces (UI/UX)
+
+### 💻 Technologies & Développement
+*   **Front-End :** HTML5, CSS3, JavaScript (ou tes technos actuelles)
+*   **Outils & Workflow :** GitHub, Git
+
+---
+
+## 🚀 Mes Projets Phare
+
+*   **[bientot]** : Courte description de ce que fait l'application. (ex: "Une application web pour...")
+*   **[bientot]** : Courte description.
+
+---
+
+## 📬 Me contacter
+
+*   [Mon LinkedIn](lien-de-ton-profil)
+*   [Mon Portfolio / Site web](lien-de-ton-site)
